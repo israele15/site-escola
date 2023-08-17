@@ -1,9 +1,10 @@
-body{background-color: rgb(216, 110, 193);}
+body{background-color: rgba(216, 110, 193, 0.508);}
 
 
 table{width: 500px; 
-    background-color: rgb(230, 112, 200);
+    background-color: rgba(230, 112, 201, 0.51);
     color: rgb(0, 0, 0);
 margin-left: 800px;
 height: 400px;
+position: fixed;
 }
